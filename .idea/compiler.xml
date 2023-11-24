@@ -9,8 +9,5 @@
         <module name="Programming-Basics" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Programming-Basics" target="16" />
-    </bytecodeTargetLevel>
   </component>
 </project>
